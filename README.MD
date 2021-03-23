@@ -1,6 +1,6 @@
 # :man_student: JavaScript :woman_student:
 
-##  Introdução a linguagem JavaScript;
+##  Introdução à Linguagem JavaScript;
 
 ## Nível : Iniciante; 
 
