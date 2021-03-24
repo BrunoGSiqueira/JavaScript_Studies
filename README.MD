@@ -1,4 +1,4 @@
-# :man_student: JavaScript :woman_student:
+<p align="center"> # :man_student: JavaScript :woman_student:
 
 ##  Introdução à Linguagem JavaScript;
 
@@ -9,4 +9,4 @@
 * Experiências;
 * Testes. 
 
-# ☕🤓💻 _ Follow @Bruno_Sthill
+<p align="center"> # ☕🤓💻 _ Follow @Bruno_Sthill
